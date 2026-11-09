@@ -9,7 +9,8 @@ supplier-trust-desk/
 ├── README.md                  # acest fisier
 ├── docs/
 │   ├── icp/                   # profilul clientului ideal (firma, rolul care plateste, rolul care decide)
-│   └── decisions/             # decizii cu data, motiv si alternative respinse
+│   ├── decisions/             # decizii cu data, motiv si alternative respinse
+│   └── processes/             # workflow Jira si alte procese repetabile
 ├── research/
 │   ├── regulation/            # note despre cerintele de reglementare relevante pentru furnizori
 │   └── sources/               # surse externe cu link si data accesului
