@@ -49,9 +49,55 @@ Coloana "Nisa" foloseste: **A** = furnizori auto tier 2-3, **I** = subcontractor
 | 22 | [Bureau Veritas, webinar TISAX](https://certification.bureauveritas.com/webinar-introduction-tisax) | S | A | Publicul tinta numit: manageri de proiect, securitate si calitate la furnizori tier 1, 2 si 3. Ajuta la rolul care decide. |
 | 23 | [Orbiq, sablon chestionar furnizor UE](https://www.orbiqhq.com/templates/eu-vendor-security-questionnaire) | V | I, T | Concurentii folosesc sabloane gratuite fara email ca lead magnet. Confirma modelul Gap Checker (STD-18). |
 
+## 4. Interes de cautare (Google Trends)
+
+Perioada: ultimele 12 luni (nov. 2025 la nov. 2026). Accesat 2026-11-10. Tip: P (date Google). Valorile sunt medii relative in cadrul fiecarei comparatii, nu se compara intre tabele.
+
+**Comparatia 1, global**
+([link](https://trends.google.com/trends/explore?date=today%2012-m&q=TISAX,NIS2%20questionnaire,DORA%20questionnaire,security%20questionnaire,VDA%20ISA))
+
+| Termen | Medie | Nisa |
+|---|---|---|
+| security questionnaire | 18 | toate |
+| TISAX | 8 | A |
+| VDA ISA | 0 la 1 | A |
+| NIS2 questionnaire | 0 | I, T |
+| DORA questionnaire | 0 | T |
+
+**Comparatia 2, global**
+([link](https://trends.google.com/trends/explore?date=today%2012-m&q=TISAX,TISAX%20Kosten,NIS2%20Lieferanten,NIS2%20supplier,ISO%2027001))
+
+| Termen | Medie | Nisa |
+|---|---|---|
+| ISO 27001 | 37 | toate |
+| TISAX | 2 | A |
+| TISAX Kosten | 0 | A |
+| NIS2 Lieferanten | 0 | I, T |
+| NIS2 supplier | 0 | I, T |
+
+Regiunile cu cel mai mare interes pentru TISAX: Germania, Cehia, Slovacia, Ungaria, Slovenia. Interogare frecventa asociata: "tisax zertifizierung kosten".
+
+**Comparatia 3, Romania**
+([link](https://trends.google.com/trends/explore?date=today%2012-m&geo=RO&q=NIS2,TISAX,ISO%2027001,DORA))
+
+| Termen | Medie |
+|---|---|
+| NIS2 | 8 |
+| ISO 27001 | 4 |
+| TISAX | 0 |
+| DORA | nefolosibil (rezultatele sunt nume proprii si magazine) |
+
+NIS2 in Romania vine mai ales din Bucuresti si Ilfov. Interogari asociate: "nis2 directive", "dnsc", "directiva nis2".
+
+**Ce inseamna**
+
+- Cautarile cu "questionnaire" sau "supplier" langa NIS2 si DORA sunt practic zero. Cererea inbound pe aceste formulari lipseste.
+- TISAX are cerere constanta, concentrata in Germania si in centura auto din Europa Centrala si de Est.
+- In Romania, TISAX nu se cauta aproape deloc. Furnizorii auto romani primesc cererea de la clienti, nu o cauta.
+
 ## Goluri de date
 
-1. **Volume de cautare.** Nu am acces la Google Keyword Planner. Scorul "canale inbound" ramane calitativ pana cand Alexandra exporta volumele pentru 10 la 15 termeni per nisa.
+1. **Volume de cautare absolute.** Contul Google nu are cont Google Ads, deci Keyword Planner nu e disponibil. Am folosit Google Trends (sectiunea 4). Trends da interes relativ 0 la 100, nu numar de cautari.
 2. **Buget per nisa.** Nu exista date publice despre cat cheltuie un IMM pe raspunsuri la chestionare in UE. Sursele 13 la 16 sunt de la vendori, majoritatea cu date din SUA.
 3. **Numar de furnizori afectati.** ENX nu publica impartirea pe tier. Nu am gasit cifre pentru subcontractori industriali sau firme IT din Romania care primesc chestionare NIS2.
 4. **Calitatea surselor vendor.** Sursele V au interes comercial. Nu se folosesc singure pentru cele 3 motive din AC.
